@@ -1,5 +1,5 @@
 // tmdb api key
-const API_KEY = "d952f1abb52678dd29a9181b81c2116b";
+const API_KEY = "enter_key_here";
 
 
 // endpoints for api from tmdb docs
